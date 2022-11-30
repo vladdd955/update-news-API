@@ -1,0 +1,20 @@
+.form-div {
+    position: relative;
+    margin-left: 800px;
+    padding-top: 60px;
+}
+
+.input {
+    border-radius: 15px;
+    height: 40px;
+}
+.Links {
+    position: relative;
+    margin-left: 231px ;
+}
+
+h1 {
+    position: relative;
+    margin: 20px;
+
+}
